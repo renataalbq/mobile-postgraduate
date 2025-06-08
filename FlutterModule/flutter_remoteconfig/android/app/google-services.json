@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "659435829582",
+    "project_id": "meuprojetoseguroapp",
+    "storage_bucket": "meuprojetoseguroapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659435829582:android:05c2cd9ef466d5b4e3461f",
+        "android_client_info": {
+          "package_name": "com.example.remoteconfigapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaAxZ1wqiM_BgAwM7yEk0MMf-sMS3HAAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
