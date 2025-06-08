@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "941775481263",
+    "project_id": "economio",
+    "storage_bucket": "economio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941775481263:android:a462cabf92fdd14eaea75a",
+        "android_client_info": {
+          "package_name": "br.pucminas.loginuser.loginuser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Iym1Q1WE36p4X31etDIiIvLZE2Q7jl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
