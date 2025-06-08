@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "941775481263",
+    "project_id": "economio",
+    "storage_bucket": "economio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941775481263:android:cb3e610cdde8c9f4aea75a",
+        "android_client_info": {
+          "package_name": "br.com.pucminas.exemplo2fa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941775481263-13sq1jo1g98vcc3lbkghkmksqst1ppom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Iym1Q1WE36p4X31etDIiIvLZE2Q7jl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941775481263-13sq1jo1g98vcc3lbkghkmksqst1ppom.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "941775481263-mqoaq8nfbft8afl9sek782neo3l4jvc9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.pucminas.loginuser.loginuser"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941775481263:android:b8cb25f8ed23fb8eaea75a",
+        "android_client_info": {
+          "package_name": "br.pucminas.fluttersession"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941775481263-13sq1jo1g98vcc3lbkghkmksqst1ppom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Iym1Q1WE36p4X31etDIiIvLZE2Q7jl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941775481263-13sq1jo1g98vcc3lbkghkmksqst1ppom.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "941775481263-mqoaq8nfbft8afl9sek782neo3l4jvc9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.pucminas.loginuser.loginuser"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941775481263:android:a462cabf92fdd14eaea75a",
+        "android_client_info": {
+          "package_name": "br.pucminas.loginuser.loginuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941775481263-13sq1jo1g98vcc3lbkghkmksqst1ppom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Iym1Q1WE36p4X31etDIiIvLZE2Q7jl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941775481263-13sq1jo1g98vcc3lbkghkmksqst1ppom.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "941775481263-mqoaq8nfbft8afl9sek782neo3l4jvc9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.pucminas.loginuser.loginuser"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
